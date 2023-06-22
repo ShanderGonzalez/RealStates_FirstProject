@@ -18,7 +18,11 @@
   "author": "Shander González",
   "license": "ISC",
   "devDependencies": {
-    "express": "^4.18.2",
+    
     "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
   }
 }
